@@ -1,0 +1,17 @@
+Library of mathematics functions and some utilities. 
+Provide mathematics functions and utilities for Theory of Number. Analysis. Geometry … 
+Embedded week to week with new functions.
+
+== First release
+- primeDivision (integer)
+- isPrime(integer)
+- isPowerFull()
+- isPerfectPower
+- eulerTotient
+- isAchillesNumber
+- isStrongAchillesNumber
+- numberOfStrongAchillesNumberBelow
+
+== To Do
+
+Java Doc
